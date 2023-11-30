@@ -2,10 +2,11 @@
   "name": "export-import1-nov21",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts" : {
-    "start" : "http- server -p 3000"
-}
+  "main": "calculator.js",
+  "type": "module",
+  "scripts": {
+    "start": "http-server -p 3000"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
