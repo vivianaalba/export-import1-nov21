@@ -1,3 +1,5 @@
+import _ from "lodash"
+
 export default function multiply(num1, num2) {
     return num1 * num2;
 }
