@@ -2,7 +2,8 @@
   "name": "export-import1-nov21",
   "version": "1.0.0",
   "description": "",
-  "main": "add.js",
+  "main": "calculator.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

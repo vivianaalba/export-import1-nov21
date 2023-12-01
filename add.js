@@ -1,4 +1,4 @@
-import isInteger from "./node_modules/lodash"
+import isInteger from './node_modules/lodash'
 
 
 export default function add(num1, num2) {
