@@ -1,4 +1,4 @@
-import isInteger from "lodash"
+import isInteger from "./node_modules/lodash"
 
 export default function subtract(num1, num2) {
     if (_.isInteger(num1) && _.isInteger(num2)) {
